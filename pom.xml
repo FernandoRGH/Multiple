@@ -3,7 +3,7 @@
 
     <groupId>com.frgh</groupId>
     <artifactId>FirstMavenProject</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>FirstMavenProject</name>
@@ -21,7 +21,7 @@
     
     <scm>
         <connection>scm:git:git@github.com:FernandoRGH/Multiple.git</connection>
-      <tag>FirstMavenProject-1.0</tag>
+      <tag>FirstMavenProject</tag>
   </scm>
 
     <properties>
