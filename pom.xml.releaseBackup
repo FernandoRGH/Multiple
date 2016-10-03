@@ -21,7 +21,7 @@
     
     <scm>
         <connection>
-            scm:git:git@github.com:FernandoRGH/Multiple.git
+            scm:git:https://github.com/FernandoRGH/Multiple.git
         </connection>
       <tag>FirstMavenProject</tag>
   </scm>
