@@ -3,7 +3,7 @@
 
     <groupId>com.frgh</groupId>
     <artifactId>FirstMavenProject</artifactId>
-    <version>1.0</version>
+    <version>SNAPSHOT-1.0</version>
     <packaging>war</packaging>
 
     <name>FirstMavenProject</name>

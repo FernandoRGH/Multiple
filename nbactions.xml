@@ -7,4 +7,18 @@
                 <goal>release:clean</goal>
             </goals>
         </action>
+        <action>
+            <actionName>CUSTOM-release_prepare</actionName>
+            <displayName>release_prepare</displayName>
+            <goals>
+                <goal>release:prepare</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-release_rollback</actionName>
+            <displayName>release_rollback</displayName>
+            <goals>
+                <goal>release:rollback</goal>
+            </goals>
+        </action>
     </actions>
