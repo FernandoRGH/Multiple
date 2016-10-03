@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-release_clean</actionName>
+            <displayName>release_clean</displayName>
+            <goals>
+                <goal>release:clean</goal>
+            </goals>
+        </action>
+    </actions>
